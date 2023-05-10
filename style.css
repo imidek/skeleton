@@ -1,0 +1,349 @@
+.shoulderRight{
+  position: absolute;
+  top:160px;
+  left:155px;
+  width: 50px;
+  height: 50px;
+  transform: translate(-50%,-50%);
+  border-radius: 50%;
+  background-color: transparent;
+  transition: all 0.5s ease;
+}
+.shoulderLeft{
+  position: absolute;
+  top:160px;
+  left:285px;
+  width: 50px;
+  height: 50px;
+  transform: translate(-50%,-50%);
+  border-radius: 50%;
+  background-color: transparent;
+  transition: all 0.5s ease;
+}
+.shoulderRight:hover{
+  background-color: crimson;
+  border: 2px solid crimson;
+  opacity: .7;
+}
+
+.shoulderLeft:hover{
+  background-color: crimson;
+  border: 2px solid crimson;
+  opacity: .7;
+}
+
+
+.elbowRight{
+  position: absolute;
+  top:270px;
+  left:130px;
+  width: 50px;
+  height: 50px;
+  transform: translate(-50%,-50%);
+  border-radius: 50%;
+  background-color: transparent;
+  transition: all 0.5s ease;
+}
+.elbowLeft{
+  position: absolute;
+  top:270px;
+  left:310px;
+  width: 50px;
+  height: 50px;
+  transform: translate(-50%,-50%);
+  border-radius: 50%;
+  background-color: transparent;
+  transition: all 0.5s ease;
+}
+
+.elbowRight:hover{
+  background-color: crimson;
+  border: 2px solid crimson;
+  opacity: .7;
+}
+
+.elbowLeft:hover{
+  background-color: crimson;
+  border: 2px solid crimson;
+  opacity: .7;
+}
+
+.wristRight{
+  position: absolute;
+  top:370px;
+  left:120px;
+  width: 50px;
+  height: 50px;
+  transform: translate(-50%,-50%);
+  border-radius: 50%;
+  background-color: transparent;
+  transition: all 0.5s ease;
+}
+.wristLeft{
+  position: absolute;
+  top:370px;
+  left:320px;
+  width: 50px;
+  height: 50px;
+  transform: translate(-50%,-50%);
+  border-radius: 50%;
+  background-color: transparent;
+  transition: all 0.5s ease;
+}
+.wristRight:hover{
+  background-color: crimson;
+  border: 2px solid crimson;
+  opacity: .7;
+}
+
+.wristLeft:hover{
+  background-color: crimson;
+  border: 2px solid crimson;
+  opacity: .7;
+}
+
+.handRight{
+  position: absolute;
+  top:410px;
+  left:110px;
+  width: 50px;
+  height: 50px;
+  transform: translate(-50%,-50%);
+  border-radius: 50%;
+  background-color: transparent;
+  transition: all 0.5s ease;
+}
+.handLeft{
+  position: absolute;
+  top:410px;
+  left:330px;
+  width: 50px;
+  height: 50px;
+  transform: translate(-50%,-50%);
+  border-radius: 50%;
+  background-color: transparent;
+  transition: all 0.5s ease;
+}
+.handRight:hover{
+  background-color: crimson;
+  border: 2px solid crimson;
+  opacity: .7;
+}
+
+.handLeft:hover{
+  background-color: crimson;
+  border: 2px solid crimson;
+  opacity: .7;
+}
+
+
+.hipRight{
+  position: absolute;
+  top:365px;
+  left:175px;
+  width: 50px;
+  height: 50px;
+  transform: translate(-50%,-50%);
+  border-radius: 50%;
+  background-color: transparent;
+  transition: all 0.5s ease;
+}
+.hipLeft{
+  position: absolute;
+  top:365px;
+  left:265px;
+  width: 50px;
+  height: 50px;
+  transform: translate(-50%,-50%);
+  border-radius: 50%;
+  background-color: transparent;
+  transition: all 0.5s ease;
+}
+.hipRight:hover{
+  background-color: crimson;
+  border: 2px solid crimson;
+  opacity: .7;
+}
+
+.hipLeft:hover{
+  background-color: crimson;
+  border: 2px solid crimson;
+  opacity: .7;
+}
+
+.kneeRight{
+  position: absolute;
+  top:510px;
+  left:195px;
+  width: 50px;
+  height: 50px;
+  transform: translate(-50%,-50%);
+  border-radius: 50%;
+  background-color: transparent;
+  transition: all 0.5s ease;
+}
+.kneeLeft{
+  position: absolute;
+  top:510px;
+  left:245px;
+  width: 50px;
+  height: 50px;
+  transform: translate(-50%,-50%);
+  border-radius: 50%;
+  background-color: transparent;
+  transition: all 0.5s ease;
+}
+.kneeRight:hover{
+  background-color: crimson;
+  border: 2px solid crimson;
+  opacity: .7;
+}
+
+.kneeLeft:hover{
+  background-color: crimson;
+  border: 2px solid crimson;
+  opacity: .7;
+}
+.ankleRight{
+  position: absolute;
+  top:660px;
+  left:195px;
+  width: 50px;
+  height: 50px;
+  transform: translate(-50%,-50%);
+  border-radius: 50%;
+  background-color: transparent;
+  transition: all 0.5s ease;
+}
+.ankleLeft{
+  position: absolute;
+  top:660px;
+  left:245px;
+  width: 50px;
+  height: 50px;
+  transform: translate(-50%,-50%);
+  border-radius: 50%;
+  background-color: transparent;
+  transition: all 0.5s ease;
+}
+.ankleRight:hover{
+  background-color: crimson;
+  border: 2px solid crimson;
+  opacity: .7;
+}
+
+.ankleLeft:hover{
+  background-color: crimson;
+  border: 2px solid crimson;
+  opacity: .7;
+}
+.footRight{
+  position: absolute;
+  top:710px;
+  left:195px;
+  width: 50px;
+  height: 50px;
+  transform: translate(-50%,-50%);
+  border-radius: 50%;
+  background-color: transparent;
+  transition: all 0.5s ease;
+}
+.footLeft{
+  position: absolute;
+  top:710px;
+  left:245px;
+  width: 50px;
+  height: 50px;
+  transform: translate(-50%,-50%);
+  border-radius: 50%;
+  background-color: transparent;
+  transition: all 0.5s ease;
+}
+.footRight:hover{
+  background-color: crimson;
+  border: 2px solid crimson;
+  opacity: .7;
+}
+
+.footLeft:hover{
+  background-color: crimson;
+  border: 2px solid crimson;
+  opacity: .7;
+}
+
+
+.c{
+  position: absolute;
+  top:130px;
+  left:220px;
+  width: 50px;
+  height: 50px;
+  transform: translate(-50%,-50%);
+  border-radius: 50%;
+  background-color: transparent;
+  transition: all 0.5s ease;
+}
+
+.c:hover{
+  background-color: rgb(40, 20, 220);
+  border: 2px solid rgb(40, 20, 220);
+  opacity: .7;
+}
+.th{
+  position: absolute;
+  top:200px;
+  left:220px;
+  width: 50px;
+  height: 100px;
+  transform: translate(-50%,-50%);
+  border-radius: 50%;
+  background-color: transparent;
+  transition: all 0.5s ease;
+}
+.th:hover{
+  background-color: rgb(40, 20, 220);
+  border: 2px solid rgb(40, 20, 220);
+  opacity: .7;
+}
+.l{
+  position: absolute;
+  top:280px;
+  left:220px;
+  width: 50px;
+  height: 75px;
+  transform: translate(-50%,-50%);
+  border-radius: 50%;
+  background-color: transparent;
+  transition: all 0.5s ease;
+}
+.l:hover{
+  background-color: rgb(40, 20, 220);
+  border: 2px solid rgb(40, 20, 220);
+  opacity: .7;
+}
+.s{
+  position: absolute;
+  top:325px;
+  left:220px;
+  width: 50px;
+  height: 50px;
+  transform: translate(-50%,-50%);
+  border-radius: 50%;
+  background-color: transparent;
+  transition: all 0.5s ease;
+}
+.s:hover{
+  background-color: rgb(40, 20, 220);
+  border: 2px solid rgb(40, 20, 220);
+  opacity: .7;
+}
+
+.clicked{
+  background-color: black;
+  opacity: 0.5;
+}
+
+.results {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
